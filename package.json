@@ -1,0 +1,11 @@
+{
+  "name": "eslint-jsdoc-bug",
+  "version": "1.0.0",
+  "description": "demo a bug in eslint-plugin-jsdoc",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "8.0",
+    "eslint-plugin-jsdoc": "^50.6.14",
+    "jsdoc": "^4.0.4"
+  }
+}
